@@ -1,0 +1,22 @@
+{
+  "name": "npmyyccbb",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ready2012/npmyyccbb.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "yangcb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ready2012/npmyyccbb/issues"
+  },
+  "homepage": "https://github.com/ready2012/npmyyccbb#readme"
+}
